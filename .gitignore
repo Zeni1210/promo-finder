@@ -1,0 +1,16 @@
+# Kuku's input pack and anything quoting it is confidential: never commit it.
+*.zip
+data/
+input/
+inputs/
+outputs/
+raw_outputs/
+*-script/
+episode-*.txt
+.cache/
+__pycache__/
+*.pyc
+.env
+
+# quotes the show: ships with raw outputs (private link), not the public repo
+eval/gold_moments.csv
